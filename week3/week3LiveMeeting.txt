@@ -1,0 +1,11 @@
+Week 3 live meeting.
+sorry I couldnt make it Chintar I had Covid.
+
+You showed us all the funtions in the first pause and practice.
+Then went over palidome project.
+Also showed how to make functions on palindrome.
+Then the video goes on to the graph.py file and downloading it.
+Shows this is very lengthy code.
+week 4s hask funtion and hashTable.
+How to store data hashTable.
+Will provide update on debugging code for hashTable.
