@@ -9,8 +9,9 @@ def mergeSort(nlist):
             mergeSort(righthalf)
             nlist = merge(nlist, lefthalf, righthalf)
 
-
+    
     print("Merging ",nlist)
+    return nlist
 
 def merge(nlist,lefthalf,righthalf):
     i=j=k=0       
@@ -34,4 +35,4 @@ def merge(nlist,lefthalf,righthalf):
         k=k+1
     return nlist
 
-print(mergeSort([ 55 ,  31 ,  26 ,  20 ,  63 ,  7 ,  51 ,  74 ,  81 ,  40 ]))
+print("Sorted:", mergeSort([ 55 ,  31 ,  26 ,  20 ,  63 ,  7 ,  51 ,  74 ,  81 ,  40 ]))
